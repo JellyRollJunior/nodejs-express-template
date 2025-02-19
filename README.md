@@ -1,4 +1,8 @@
 # nodejs-express-template
-- Express
-- EJS
-- prettier config
+
+-   Express
+-   Express Validator
+-   EJS
+-   Dotenv
+-   Node-Postgre
+-   Prettier config
